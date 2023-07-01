@@ -1,0 +1,11 @@
+
+cloud_pct=responce.cloud_pct
+temp=responce.temp
+feels_like=responce.feels_like
+humidity=responce.humidity
+min_temp=responce.min_temp
+max_temp=responce.max_temp
+wind_speed=responce.wind_speed
+wind_degrees=responce.wind_degrees
+sunrise=responce.sunrise
+sunset=responce.sunset
