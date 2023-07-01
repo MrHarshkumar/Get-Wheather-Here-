@@ -9,4 +9,4 @@ and then we display it to the user.
 Index.html is for the user interface and Use.HTML is about the "How to use"
 and script.js is for the writing the functionality and all the js code.
 transform.txt is file that i made it for my use and nothing else 
-its not helping the project anyway and index.zip is zip file and nothig else.
+its not helping the project anyway and index.zip is zip file and nothing else.
